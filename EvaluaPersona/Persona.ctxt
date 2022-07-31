@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\n\ Write\ a\ description\ of\ class\ Persona\ here.\n\n\ @author\ (Sebastian\ Ahern)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=Persona()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Persona\n
+comment10.params=
+comment10.target=void\ setGenero()
+comment11.params=
+comment11.target=void\ cumplirAnios()
+comment2.params=nombre\ edad\ rangoEtario\ genero
+comment2.target=Persona(java.lang.String,\ int,\ java.lang.String,\ char)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=void\ setNombre()
+comment5.params=
+comment5.target=int\ getEdad()
+comment6.params=
+comment6.target=void\ setEdad()
+comment7.params=
+comment7.target=java.lang.String\ getRangoEtario()
+comment8.params=
+comment8.target=void\ setRangoEtario()
+comment9.params=
+comment9.target=char\ getGenero()
+numComments=12
